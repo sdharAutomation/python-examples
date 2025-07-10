@@ -1,7 +1,7 @@
 Python Examples Collection
 A collection of small Python examples and utilities demonstrating various programming concepts, libraries, and practical implementations.
 Overview
-This repository contains bite-sized Python examples that showcase different aspects of Python programming. Each example is designed to be self-contained and educational, perfect for learning or quick reference.
+This repository contains bite-sized Python examples that showcase different aspects of Python programming. 
 python-examples/
 ├── README.md
 ├── requirements.txt
@@ -23,7 +23,7 @@ python-examples/
 │   │   ├── csv_operations.py
 │   │   └── json_handling.py
 │   ├── web/
-│   │   ├── api_requests.py
+│   │   ├── ApiEndPointAutomate.py
 │   │   ├── web_scraping.py
 │   │   └── simple_server.py
 │   └── utilities/
