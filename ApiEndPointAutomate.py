@@ -1,5 +1,5 @@
 #Automate API end points like Get,Post,Put,Delete
-#Use random library to generate random email 
+#Use random library to generate random email - in progress
 
 import requests
 import json
